@@ -5,3 +5,6 @@ https://github.com/amviana/MVP-notebook.git
 
 Link Google Colab:
 https://colab.research.google.com/drive/1Zz6kAPIpDFsnVk8yUncGZMH6W_lzPMuf?usp=sharing
+
+Link Kaggle:
+https://www.kaggle.com/datasets/surajjha101/stores-area-and-sales-data?resource=download
